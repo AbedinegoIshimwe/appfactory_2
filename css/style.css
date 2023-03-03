@@ -51,7 +51,7 @@ p{
   display: flex;
 }
 .navbar a{ 
-  color: var(--tx-white)
+  color: var(--tx-white);
   padding: 10px;
   margin: 0 5px;
 }
